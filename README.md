@@ -1,2 +1,2 @@
 # pe2
- python course material for pe2 from edube.org
+ python course material for pe2 from https://edube.org/
